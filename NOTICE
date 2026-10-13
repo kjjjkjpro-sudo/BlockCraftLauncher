@@ -1,0 +1,9 @@
+BlockCraft Launcher
+Copyright (c) 2026
+
+This project is distributed under the Apache License, Version 2.0.
+See the LICENSE file for the full text.
+
+This project is an independent Android launcher prototype for Minecraft Java Edition metadata and runtime preparation. It is not an officially endorsed product of Mojang Studios, Microsoft, or any other rights holder.
+
+This project uses the official Minecraft metadata endpoint at https://piston-meta.mojang.com/mc/game/version_manifest_v2.json for read-only version discovery. No game files or runtimes are bundled as part of this repository.
